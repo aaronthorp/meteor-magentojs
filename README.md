@@ -1,4 +1,4 @@
-node-magentojs v0.0.2
+node-magentojs v0.0.3
 =====================
 
 An integration module for accepting payments through the eWay gateway. 
