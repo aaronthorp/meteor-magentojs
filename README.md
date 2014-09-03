@@ -14,7 +14,18 @@ How to install
 How to use
 ==========
 
-Coming soon...
+```
+var magento = MagentoJS({
+  host: 'www.magentosite.com',
+  port: 80,
+  path: '/index.php/api/xmlrpc',
+  login: 'test',
+  pass: 'pass'
+});
+magento.init(function(err) {
+  magento.sales_order.info('500000001', function(err,order) { console.log(order); });
+});
+```
 
 License
 =======

@@ -2,7 +2,7 @@ Package.describe({
   summary: "node-magentojs npm packaged for meteor.",
   version: "0.0.2",
   git: "https://github.com/aaronthorp/meteor-magentojs.git",
-  name: "aaronthorp:meteorjs"
+  name: "aaronthorp:magentojs"
 });
 
 Package.on_use(function (api) {
