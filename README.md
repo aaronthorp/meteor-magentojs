@@ -1,10 +1,9 @@
-node-magentojs v0.0.3
-=====================
+MagentoJS v0.0.3
+================
 
-An integration module for accepting payments through the eWay gateway. 
+An integration for Magento through the SOAP/RPC gateway. 
 
 More information can be found about the interface here: `https://github.com/mayconheerdt/MagentoJS`
-
 
 How to install
 ==============
