@@ -1,9 +1,9 @@
-MagentoJS v0.0.3
+MagentoJS v0.0.4
 ================
 
 An integration for Magento through the SOAP/RPC gateway. 
 
-More information can be found about the interface here: `https://github.com/mayconheerdt/MagentoJS`
+Meteor implementation of `node-magentojs` [https://github.com/mayconheerdt/MagentoJS]
 
 How to install
 ==============
