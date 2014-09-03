@@ -1,9 +1,0 @@
-{
-  "name": "eway",
-  "description": "eWay Gateway, an Integration module for accepting payments through the eWay gateway.",
-  "homepage": "https://github.com/aaronthorp/meteor-eway",
-  "author": "Aaron Thorp <athorp@gmail.com>",
-  "version": "0.1.2",
-  "git": "https://github.com/aaronthorp/meteor-eway.git",
-  "packages": {}
-}
