@@ -1,3 +1,5 @@
+[![Meteor Icon](http://icon.meteor.com/package/aaronthorp:magentojs)](https://atmospherejs.com/aaronthorp/magentojs)
+
 MagentoJS v0.0.4
 ================
 
